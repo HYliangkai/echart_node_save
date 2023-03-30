@@ -2,11 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   canvas:
-    specifier: ^2.11.0
+    specifier: '2'
     version: registry.npmmirror.com/canvas@2.11.0
-  dotenv:
-    specifier: ^16.0.3
-    version: registry.npmmirror.com/dotenv@16.0.3
   echarts:
     specifier: ^5.4.2
     version: registry.npmmirror.com/echarts@5.4.2
@@ -163,13 +160,6 @@ packages:
     name: detect-libc
     version: 2.0.1
     engines: {node: '>=8'}
-    dev: false
-
-  registry.npmmirror.com/dotenv@16.0.3:
-    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/dotenv/-/dotenv-16.0.3.tgz}
-    name: dotenv
-    version: 16.0.3
-    engines: {node: '>=12'}
     dev: false
 
   registry.npmmirror.com/echarts@5.4.2:
